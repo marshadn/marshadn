@@ -2,6 +2,7 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=37&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhamed+Marshad!;" />
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
@@ -30,19 +31,22 @@
   <a href="https://my_bio" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 </div>
 
- <hr/>
+
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,django,express,bash,mongodb,c,cpp,postgresql,mysql" /><br>
+    
 </div>
 
 <br/>
-<hr/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -51,8 +55,8 @@
   
   <br/><br/><br/>
 </div>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -70,8 +74,8 @@
 
 
 <br/><br/>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<hr/>
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=29&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+🤝" />
