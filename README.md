@@ -63,8 +63,8 @@
 <!-- <div align=center>   src="https://github-readme-streak-stats.herokuapp.com/?user=marshadn&count_private=true&theme=react&border_radius=10" -->
 <div align="center">
  <!-- <img width=50% src="https://github-readme-streak-stats.herokuapp.com/?user=marshadn&theme=react&border_radius=10" alt="marshadn"/>-->
-   <a href="https://git.io/streak-stats"><img width=50% src="https://streak-stats.demolab.com?user=marshadn&theme=react&border_radius=10" alt="marshadn" /></a>
-  <img width=49% src="https://github-readme-stats.vercel.app/api?username=marshadn&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_title=false&hide_rank=false&include_all_commits=true&disable_animations=false&border_radius=10" alt="marshadn" />
+   <a href="https://git.io/streak-stats"><img width=50% src="https://streak-stats.demolab.com?user=marshadn&count_private=true&show_icons=true&include_all_commits=true&disable_animations=false&theme=react&border_radius=10" height="170" alt="marshadn" /></a>
+  <img width=49% src="https://github-readme-stats.vercel.app/api?username=marshadn&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_title=false&hide_rank=false&include_all_commits=true&disable_animations=false&border_radius=10" height="170" alt="marshadn" />
 </div>
 
 <br/>
