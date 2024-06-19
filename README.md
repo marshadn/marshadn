@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhamed Marshad</h1>
 <h3 align="center">A passionate frontend & backend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marshadn&label=Profile%20views&color=0e75b6&style=flat" alt="marshadn" /> </p>
+<img align="center" alt="coding" width=100% src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=marshadn&label=Profile%20views&color=0e75b6&style=flat" alt="marshadn" /> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **react.js**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
 - 🤝 I’m looking for help with **web development**
-
-- 💬 Ask me about **react,node and django**
 
 - 📫 How to reach me **muhamedmarshad18@gmail.com**
 
