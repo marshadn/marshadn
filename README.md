@@ -16,7 +16,7 @@
 
 👨‍💻  I'm looking for help with **Node.js & Django.**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡  Designs and develops websites with a focus on **user experience and accessibility**
 
  </div>
  
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,postman" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,django,express,firebase,mongodb,c,cpp,postgresql,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,django,express,bash,mongodb,c,cpp,postgresql,mysql" /><br>
 </div>
 
 <br/>
