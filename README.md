@@ -80,7 +80,7 @@
 
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=29&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Thanks+for+visiting!+👋;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+🤝" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=29&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+👋;+" />
 </h3>
 
 <br/>
