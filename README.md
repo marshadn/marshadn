@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=37&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhamed+Marshad!;" />
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-</h1>
+<!-- </h1>
 
 <h3 align="center">A passionate software developer from India</h3>
 
@@ -15,7 +15,7 @@
  
  🌱 I’m currently exploring **React.js**
 
-👨‍💻  I'm looking for help with **SQL & Django.**
+👨‍💻  I'm looking for help with **SQL & Django.** -->
 
 
  </div>
