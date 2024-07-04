@@ -13,11 +13,10 @@
  
  🔭 I’m currently working on a **Hospital management web app**
  
- 🌱 I’m currently learning **React.js**
+ 🌱 I’m currently exploring **React.js**
 
-👨‍💻  I'm looking for help with **Node.js & Django.**
+👨‍💻  I'm looking for help with **SQL & Django.**
 
-⚡  Designs and develops websites with a focus on **user experience and accessibility**
 
  </div>
  
