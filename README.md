@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://my_bio" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://main--bespoke-crostata-e7bde9.netlify.app/?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
@@ -70,11 +70,12 @@
 </h3>
 
 <br/>
-<h3 align="center">A passionate software developer from India</h3>
+
 
 <br/>
 
 <!-- 
+<h3 align="center">A passionate software developer from India</h3>
 < div align="center">
  
  🔭 I’m currently working on a **Hospital management web app**
