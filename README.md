@@ -2,26 +2,12 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=37&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhamed+Marshad!;" />
-    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-<!-- </h1>
-
-<h3 align="center">A passionate software developer from India</h3>
-
-<br/>
-
-<div align="center">
- 
- 🔭 I’m currently working on a **Hospital management web app**
- 
- 🌱 I’m currently exploring **React.js**
-
-👨‍💻  I'm looking for help with **SQL & Django.** -->
+    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /></h1>
 
 
- </div>
  
 <div align="center"> 
- <a href="mailto:muhamedmarshad18@gmail.com">
+ <a href="mailto:muhamedmarshad18@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   </a>
@@ -32,8 +18,8 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-</div>
 
+  </div>
 
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
@@ -84,3 +70,18 @@
 </h3>
 
 <br/>
+<h3 align="center">A passionate software developer from India</h3>
+
+<br/>
+
+<!-- 
+< div align="center">
+ 
+ 🔭 I’m currently working on a **Hospital management web app**
+ 
+ 🌱 I’m currently exploring **React.js**
+
+👨‍💻  I'm looking for help with **SQL & Django.** 
+
+</div>
+-->
