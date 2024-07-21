@@ -14,7 +14,7 @@
   <a href="https://linkedin.com/in/marshadn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-    <a href="https://main--bespoke-crostata-e7bde9.netlify.app/" target="_blank">
+    <a href="https://marshad.netlify.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
     <a href="https://www.instagram.com/marshxadn" target="_blank">
