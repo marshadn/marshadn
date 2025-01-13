@@ -20,6 +20,9 @@
     <a href="https://www.instagram.com/marshxadn" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+    <a href="https://leetcode.com/marshxadn/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 <!--   <a href="https://my_bio" target="_blank">
      <img src="https://main--bespoke-crostata-e7bde9.netlify.app/?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a> 
