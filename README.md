@@ -21,9 +21,15 @@
     <a href="https://leetcode.com/marshxadn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-   <a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
+  
+<a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
+  <img src="https://img.shields.io/badge/Download_CV-DC2826?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+</a>
+
+ <!--<a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-DC2826?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
 </a>
+-->
 
 <!--   <a href="https://my_bio" target="_blank">
      <img src="https://main--bespoke-crostata-e7bde9.netlify.app/?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
