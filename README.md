@@ -81,12 +81,13 @@
 <br/><br/>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-<div align="center">
+<!--<div align="center">
 <h2>👨‍💻LeetCode Stats👨‍💻</h2>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/marshxadn?ext=heatmap)
 </div>
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+-->
 
 <h3 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Consolas&size=29&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Thanks+for+visiting!+👋;+" />
