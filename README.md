@@ -5,26 +5,31 @@
     <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" /></h1>
 
 <div align="center"> 
- <a href="mailto:muhamedmarshad18@gmail.com">
+  <a href="mailto:muhamedmarshad18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  </a>
+
   <a href="https://linkedin.com/in/marshadn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--     <a href="https://marshad.netlifyapp/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
-  </a> -->
-    <a href="https://www.instagram.com/marshxadn" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-    <a href="https://leetcode.com/marshxadn/" target="_blank">
+
+  <a href="https://marshad.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/marshxadn" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/marshxadn/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  
-<a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
-  <img src="https://img.shields.io/badge/Download_CV-DC2826?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
-</a>
+
+  <a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Download_CV-DC2826?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+</div>
+
 
  <!--<a href="https://drive.google.com/file/d/1CyS_bfaDet5n0Phwlb5b7bXcc8z-movD/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/Resume-Download-DC2826?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
